@@ -1,1 +1,1 @@
-# R scropt 
+# R scripts
